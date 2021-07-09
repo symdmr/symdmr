@@ -6,10 +6,7 @@
 - 🌱 I’m currently learning C# & Angular
 - 📫 How to reach me: ...
 
-![](https://raw.githubusercontent.com/symdmr/github-profile-summary-cards-example/master/profile-summary-card-output/monokai/4-productive-time.svg)
-
-
-![](https://raw.githubusercontent.com/symdmr/github-profile-summary-cards-example/master/profile-summary-card-output/monokai/3-stats.svg)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=symdmr" alt="symdmr" /></a> </p>
 
 [![Şeyma's GitHub stats](https://github-readme-stats.vercel.app/api?username=symdmr)](https://github.com/anuraghazra/github-readme-stats)
 
