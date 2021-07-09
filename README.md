@@ -3,9 +3,6 @@
 
  <h5 align="center">🌱 I’m currently learning .NET Core</h5>
  
- <p align="center"><img src="https://github.blog/wp-content/uploads/2019/03/engineering-social.png?w=1201" alt="mailtoseyma" height="%20"/> </p>
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/symdmr) 
 
  <h4 align="left">📫 You can reach me</h4>
   <a href="mailto:seymademir35@gmail.com" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="mailtoseyma" width="27" height="30"/> </a>
