@@ -2,9 +2,9 @@
 <h3 align="center">A Software Developer Student from Istanbul/Turkey</h3>
 
  <h5 align="center">🌱 I’m currently learning .NET Core</h5>
- 
+ <p align=center> <img src="images/brain_developer.jpg" alt="learning" height=300/style="margin-tpo:0"></p>
 
- <h4 align="left">📫 You can reach me</h4>
+ <h4 align="left">📫 You can reach&connect me </h4>
   <a href="mailto:seymademir35@gmail.com" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="mailtoseyma" width="27" height="30"/> </a>
  <a href="https://github.com/symdmr" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="gmail" width="27" height="30"/> </a>
  <a href="https://www.linkedin.com/in/seymademir/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" width="27" height="30"/> </a> 
