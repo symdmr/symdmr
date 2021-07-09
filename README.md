@@ -13,3 +13,4 @@
 ![](https://raw.githubusercontent.com/symdmr/github-profile-summary-cards-example/master/profile-summary-card-output/monokai/4-productive-time.svg)
 
 
+![](https://raw.githubusercontent.com/symdmr/github-profile-summary-cards-example/master/profile-summary-card-output/monokai/3-stats.svg)
