@@ -29,9 +29,9 @@
  </p>
 
 
-<p><img align="left" width="450" src="https://github-readme-stats.vercel.app/api/top-langs?username=symys&show_icons=true&theme=radical&locale=en&layout=compact" alt="symys"  /></p>
+<p><img align="left" width="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=symys&show_icons=true&theme=radical&locale=en&layout=compact" alt="symys"  /></p>
 
-<p>&nbsp;<img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=symys&show_icons=true&theme=dark&locale=en" alt="symys" width="50%" /></p>
+<p>&nbsp;<img align="right" width="300" src="https://github-readme-stats.vercel.app/api?username=symys&show_icons=true&theme=dark&locale=en" alt="symys" width="50%" /></p>
 
 
 
