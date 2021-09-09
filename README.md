@@ -6,7 +6,6 @@
   <p align=center><a href="mailto:seymademir35@gmail.com" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="mailtoseyma" width="27" height="30"/> </a>
  <a href="https://www.linkedin.com/in/seymademir/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" width="27" height="30"/> </a> 
   <a href="https://www.behance.net/seymademir" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="behance" width="27" height="30"/> </a>
- <a href="https://www.instagram.com/dmrseym/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" width="27" height="30"/> </a></p>
  <p align=center> <img src="images/brain_developer1.jpg" alt="learning" height=180/style="margin-top:0"></p>
 
 
@@ -30,9 +29,9 @@
  </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=symdmr&show_icons=true&theme=radical&locale=en&layout=compact" alt="symdmr"  /></p>
+<p><img align="left" width="450" src="https://github-readme-stats.vercel.app/api/top-langs?username=symdmr&show_icons=true&theme=radical&locale=en&layout=compact" alt="symdmr"  /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=symdmr&show_icons=true&theme=dark&locale=en" alt="symdmr" width="50%" /></p>
+<p>&nbsp;<img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=symdmr&show_icons=true&theme=dark&locale=en" alt="symdmr" width="50%" /></p>
 
 
 
