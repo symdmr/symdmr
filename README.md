@@ -6,7 +6,7 @@
   <p align=center><a href="mailto:seymademir35@gmail.com" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="mailtoseyma" width="27" height="30"/> </a>
  <a href="https://www.linkedin.com/in/seymademir/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" width="27" height="30"/> </a> 
   <a href="https://www.behance.net/seymademir" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="behance" width="27" height="30"/> </a>
- <a href="https://www.instagram.com/dmrseym/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" width="27" height="30"/> </a>
+ <a href="https://www.instagram.com/seyma.up/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" width="27" height="30"/> </a>
  <p align=center> <img src="images/brain_developer1.jpg" alt="learning" height=180/style="margin-top:0"></p>
 
 
