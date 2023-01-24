@@ -10,6 +10,7 @@
    <a href="https://www.behance.net/seymademir" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="behance" width="27" height="30"/> </a>
  <p align=center> <img src="images/brain_developer1.jpg" alt="learning" height=180/style="margin-top:0"></p>
 
+<p align=center>&nbsp;<img height="180" src="https://github-readme-stats.vercel.app/api?username=symys&show_icons=true&theme=dark&locale=en" alt="symys" width="50%" /></p>
 
 
 
