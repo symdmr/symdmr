@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Şeyma</h1>
-<h3 align="center">A Software Developer Student from Istanbul/Turkey</h3>
+<h3 align="center">A Junior Software Developer from Istanbul/Turkey</h3>
 
- <h5 align="center">🌱 I’m currently learning Front-End Development</h5>
+ <h5 align="center">🌱 I’m currently learning Front-End Development </h5>
   <h4 align="center">📫 You can reach me or see my works </h4>
   <p align=center><a href="mailto:seymademir35@gmail.com" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="mailtoseyma" width="27" height="30"/> </a>
  <a href="https://www.linkedin.com/in/seymademir/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" width="27" height="30"/> </a> 
