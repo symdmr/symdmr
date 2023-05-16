@@ -2,7 +2,8 @@
 <h3 align="center">A Junior Software Developer from Istanbul/Turkey</h3>
 
  <h5 align="center">🌱 I’m currently learning Front-End Development </h5>
-  <h4 align="center">📫 You can reach me or see my works </h4>
+  <h4 align="center">📫 You can reach me or see my works, here the links </h4>
+ <h5 align=center  style="text-decoration:none;text:`#f03c15`;"><a href="https://seymademir.netlify.app/" target="_blank">Check Out My Portfolio </a></h5>
   <p align=center><a href="mailto:seymademir35@gmail.com" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="mailtoseyma" width="27" height="30"/> </a>
  <a href="https://www.linkedin.com/in/seymademir/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" width="27" height="30"/> </a> 
  <a href="https://medium.com/@seymademir" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="medium" width="27" height="30"/> </a>
